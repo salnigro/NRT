@@ -4,7 +4,7 @@
 AI-Powered Dual-Reasoning Engine for Substance Abuse Risk and Temporal Analysis
 
 ## Team Members
-Sal Nigro (and Team, if applicable)
+Sal Nigro and Rehan Ali
 
 ## Problem Statement
 The escalating public health crisis surrounding substance abuse (such as heroin, methadone, and synthetic opioids) requires dynamic, timely models that can decode diverse communication channels. Traditional models often rely purely on structured statistics or manual evaluations, leading to lagged interventions. The objective is to design a robust AI pipeline under "Track A: AI Modeling and Reasoning" capable of detecting nuanced language indicating emotional distress and behavioral changes from real-world unstructured text, while strictly correlating those signals with quantitative national demographic trends to surface early-warning indicators for public health officials.
